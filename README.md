@@ -19,3 +19,8 @@ Como parte de una campaña de ayudar a la comunidad, tu empresa está apoyando a
 
 ## Retos
 Puedes iniciar por [acá](https://whatthehack-cf.github.io/WhatTheHack_retos/DevOps-GitHub/)
+
+##Image Proof
+<img width="1396" alt="reto 4" src="https://github.com/user-attachments/assets/e877903b-2285-4d60-ac5f-2b420cc8aeb1">
+
+<img width="1398" alt="Captura de pantalla 2024-08-29 a la(s) 17 54 11" src="https://github.com/user-attachments/assets/46ce1e08-5448-4563-8cc4-1530a080aa50">
